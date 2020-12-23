@@ -1,4 +1,4 @@
-def main():
+def Name1():
 #<<<<<<< HEAD
    print("Keep it logically awesome.")
 
@@ -10,4 +10,4 @@ def main():
   #print(quotes)
 
 if __name__== "__main__":
-  main()
+  Name1()
